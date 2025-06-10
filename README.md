@@ -1,25 +1,6 @@
 # 台南美食
-
+https://hackmd.io/@dss/rk2YSUZfxl
 🎉 Welcome>  Hi 😄 Welcome join `company name`!!
-
-<html lang="zh-Hant">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    /* CSS 樣式定義 */
-    .custom-block {
-      background-color: #e6ffe6; /* 淺綠色背景 */
-      color: #333;             /* 文字顏色 */
-      border-left: 4px solid #4CAF50; /* 左邊框，使用更深的綠色 */
-      padding: 12px 15px;      /* 內邊距 */
-      margin-bottom: 1em;      /* 區塊下方的外邊距 */
-      border-radius: 4px;      /* 輕微圓角 */
-      font-family: Arial, sans-serif; /* 字體 */
-      line-height: 1.5;        /* 行高 */
-    }
-  </style>
-</head>
 <body>
   <div class="custom-block">
     點選店家文字即可開啟對應的 Google 地圖位置<br>
